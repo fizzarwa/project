@@ -1,1 +1,1 @@
-# project any change in project is possible directly from code
+#  Any change in project is possible directly from code
